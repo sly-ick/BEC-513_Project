@@ -1,4 +1,4 @@
-# Project P3t: V-Plot Generation
+# Project 3: V-Plot Generation
 
 ## Overview
 This suite generates a 2D V-plot frequency matrix (`vplot_m1.txt`) from mapped genomic BED files (`mapped.bed`), calculating fragment length versus relative distance to reference landmark centers.
